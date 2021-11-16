@@ -3158,5 +3158,13 @@
     "symbol": "gm",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/cf07eb0b02a013c851eddde2fa8e62f8895536a9/network/ethereum/0x7F0693074F8064cFbCf9fA6E5A3Fa0e4F58CcCCF.jpg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
+    "name": "Everipedia IQ",
+    "symbol": "IQ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9/logo.png"
   }
 ]
